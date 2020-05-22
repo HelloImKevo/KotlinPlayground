@@ -27,6 +27,8 @@ hs_err_pid*
 
 # IntelliJ
 *.iml
+.idea/**/codeStyleConfig.xml
+.idea/**/Project.xml
 .idea/dictionaries
 .idea/encodings.xml
 .idea/gradle.xml
