@@ -25,6 +25,10 @@ hs_err_pid*
 # Mac-specific
 .DS_Store
 
+# Generated output
+/out/classes/
+/out/production/
+
 # IntelliJ
 *.iml
 .idea/**/codeStyleConfig.xml
